@@ -13,7 +13,8 @@ One interesting current theme in the field is to compare neural activities again
 activations in artificial neural networks.
 
 What principal investigators should you look into read more: Bruno Olshaussen, Jim Di Carlo,
-Jack Gallant, Rebecca Saxe, Nancy Kanwisher, Aapo Hyvarinen, David Marr, Nikos Logothetis.
+Jack Gallant, Rebecca Saxe, Nancy Kanwisher, Aapo Hyvarinen, Eero Simoncelli,
+David Marr, David Van Essen, Nikos Logothetis.
 
 # [Organization of high-level visual cortex in human infants](http://saxelab.mit.edu/resources/papers/deen.etal.2017.pdf)
 
