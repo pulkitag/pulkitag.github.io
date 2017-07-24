@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Visual Processing in the Brain
 ---
 
@@ -16,7 +16,7 @@ What principal investigators should you look into read more: Bruno Olshaussen, J
 Jack Gallant, Rebecca Saxe, Nancy Kanwisher, Aapo Hyvarinen, Eero Simoncelli,
 David Marr, David Van Essen, Nikos Logothetis.
 
-# [Organization of high-level visual cortex in human infants](http://saxelab.mit.edu/resources/papers/deen.etal.2017.pdf)
+## [Organization of high-level visual cortex in human infants](http://saxelab.mit.edu/resources/papers/deen.etal.2017.pdf)
 
 While many studies have been conducted to analyze how visual information is represented
 in the adult human brain, very few studies have looked at this organization in infants due
