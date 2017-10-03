@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Combining On and Off Policy Learning
+title: Reinforcement Learning Algorithms
 comments: true
 ---
 

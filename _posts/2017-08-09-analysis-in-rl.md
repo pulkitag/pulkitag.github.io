@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Combining Model Based and Model Free Policy Learning
+title: Analyzing Reinforcement Learning Algorithms
 comments: true
 ---
 
