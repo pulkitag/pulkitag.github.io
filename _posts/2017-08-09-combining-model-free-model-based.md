@@ -10,6 +10,7 @@ comments: true
 
 ## [MBMF: Model-Based Priors for Model-Free Reinforcement Learning](https://arxiv.org/pdf/1709.03153.pdf)
 
+## [Combining learned and analytical models for predicting action effects](https://arxiv.org/pdf/1710.04102.pdf)
 
 
 {% include disqus.html %}

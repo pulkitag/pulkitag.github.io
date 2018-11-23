@@ -9,3 +9,5 @@ The idea of this collection is to understand how the optimization process of f n
 
 For the landscape of loss function for deep networks, the
 volume of basin of attraction of good minima dominates over that of poor minima, which guarantees optimization methods with random initialization to converge to good minima. We theoretically justify our findings through analyzing 2-layer neural networks; and show that the low-complexity solutions have a small norm of Hessian matrix with respect to model parameters. For deeper networks, extensive numerical evidence helps to support our arguments.
+
+## [Function space analysis of deep learning representation layers](https://arxiv.org/pdf/1710.03263.pdf)

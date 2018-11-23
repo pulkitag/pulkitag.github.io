@@ -8,3 +8,9 @@ If you are using a gem theme, find the source files (say for the theme minima)
 ```
 bundle show minima
 ```
+
+To build the website:
+
+```
+bundle exec jekyll serve
+```

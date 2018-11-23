@@ -1,3 +1,19 @@
 <!-- <iframe width="560" height="315" align="middle" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
 -->
+<div>
+  {% if include.start %}
+    <iframe width="320" height="240"
+      src="https://www.youtube.com/embed/{{ include.id }}?start={{ include.start }}"
+      frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+    </iframe>
+  {% else %}
+    <iframe width="320" height="240"
+    src="https://www.youtube.com/embed/{{ include.id }}"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+    </iframe>
+  {% endif %}
+</div>
+
+<!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}"></iframe>
+-->
